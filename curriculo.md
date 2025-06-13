@@ -4,7 +4,7 @@
 ✉️ **Email:** jonatasilva118@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jscodedevelopment)  
 🔗 [GitHub](https://github.com/JsCodeDevlopment)  
-📍 **Idade:** 26 anos — Crato-CE  
+📍 **Idade:** 26 anos — Crato-CE
 
 ---
 
@@ -38,66 +38,98 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Fullstack Pleno — **PokerSlayer**  
-**Abr 2025 – Atualmente**  
-- Integração e manutenção de uma plataforma profissional de poker.
-- Foco em TypeScript, React, Node.js, otimizações de performance e experiência do usuário.  
-**Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Redux.
+### Desenvolvedor Fullstack Pleno — **PokerSlayer**
+
+**Abr 2025 – Atualmente**
+
+- Integro uma plataforma profissional de poker utilizando o ecossistema JavaScript com foco em TypeScript e Node.js. Meu papel envolveu a implementação de integrações robustas, otimizações de performance e melhorias contínuas na responsividade e usabilidade da interface do usuário.
+- Trabalhei diretamente no desenvolvimento e na manutenção de aplicações de alta disponibilidade, garantindo a excelência na experiência do usuário e a escalabilidade do sistema, contribuindo de forma significativa para o sucesso e a evolução da plataforma.  
+  **Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Redux.
 
 ---
 
-### Desenvolvedor Fullstack Pleno — **TakeFlow**  
-**Fev 2025 – Abr 2025**  
-- Manutenção e refatoração de sistema utilizado por mais de 5 empresas.
-- Migração do frontend de MUI para Ant Design + Tailwind.  
-**Stack:** React, Typescript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
+### Desenvolvedor Fullstack Pleno — **TakeFlow**
+
+**Fev 2025 – Abr 2025**
+
+- Responsável pela manutenção e otimização de um sistema que atende mais de 5 empresas,
+  realizando grandes refatorações e migração tecnológica no frontend, substituindo MUI por Ant Design com
+  Tailwind para melhorar performance e usabilidade.  
+   **Stack:** React, Typescript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
 
 ---
 
-### Desenvolvedor Fullstack Pleno — **Infinity Tec**  
-**Set 2024 – Atualmente**  
-- Promoção a pleno com autonomia técnica.
-- Liderança de times, code review, suporte a juniors, boas práticas e organização de tarefas.  
-**Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
+### Desenvolvedor Fullstack Pleno — **Infinity Tec**
+
+**Set 2024 – Atualmente**
+
+- Com a promoção a desenvolvedor pleno, conquistei mais autonomia nas decisões técnicas e passei
+  a liderar momentaneamente equipes de desenvolvimento, organizando tarefas, revisando códigos e garantindo a
+  qualidade das entregas. Além disso, atuei diretamente no suporte e orientação a desenvolvedores juniores,
+  auxiliando em desafios técnicos e promovendo boas práticas de desenvolvimento.
+- Participei ativamente desde a concepção até a entrega de soluções, com experiência tanto em projetos
+  individuais quanto colaborativos, sempre buscando contribuir com o sucesso dos produtos e a evolução dos
+  processos internos.  
+   **Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
-### Desenvolvedor Fullstack — **Infinity Tec**  
-**Abr 2024 – Set 2024**  
-- Desenvolvimento de sites e sistemas robustos, entregando projetos completos.  
-**Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
+### Desenvolvedor Fullstack — **Infinity Tec**
+
+**Abr 2024 – Set 2024**
+
+- Desenvolvimento e manutenção de sites e sistemas, colaborando com equipes multifuncionais para
+  entregar soluções robustas, concluindo projetos 100% para os clientes. Demonstrar capacidade de trabalhar sob
+  pressão, resolução de problemas e pensamento crítico.
+   **Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
-### Desenvolvedor Web — **VintePila (Freelancer)**  
-**Fev 2023 – Set 2023**  
-- Criação de sites e landing pages do início ao fim.  
-**Stack:** HTML, CSS, Javascript, Typescript, React, Tailwind.
+### Desenvolvedor Web — **VintePila (Freelancer)**
+
+**Fev 2023 – Set 2023**
+
+- Desenvolvimento de sites e landing pages como freelancer, completando 100% dos projetos desde
+  a concepção até a implantação. Demonstrou habilidades de gerenciamento de tempo, atenção aos detalhes,
+  comunicação e adaptabilidade.  
+   **Stack:** HTML, CSS, Javascript, Typescript, React, Tailwind.
 
 ---
 
-### Designer Gráfico — **Freelancer**  
-**Mai 2012 – Set 2023**  
-- Desenvolvimento de mídias digitais, flyers, banners, cartões de visita.  
-**Ferramentas:** Adobe Photoshop, Figma.
+### Designer Gráfico — **Freelancer**
+
+**Mai 2012 – Set 2023**
+
+- Desenvolvimento de flyer, banner, cartões de visita, mídias digitais e artes de
+  modo geral em modalidade freelance.  
+   **Ferramentas:** Adobe Photoshop, Figma.
 
 ---
 
 ## 💻 Projetos
 
-### 🗓 Sistema de Agendamentos  
-**Tecnologias:** React, Next, Typescript, Tailwind, ShadcnUi, Prisma, Axios, Stripe  
-Projeto vencedor do 5º OneBitCode Hackathon — sistema completo para cadastro de serviços, agendamento online e gestão da equipe.  
-🔗 [Acesso](https://agendae-six.vercel.app/)  
-💻 [Código Fonte](https://github.com/evertonccarvalho/sistema-agendamentos)
+### 🗓 Sistema de Agendamentos
+
+**Tecnologias:** React, Next, Typescript, Tailwind, ShadcnUi, Prisma, Axios, Stripe
+
+- Projeto colaborativo que levou à vitória no 5º OneBitCode Hackathon. O sistema permite que os
+  profissionais cadastrem serviços e disponibilizem os horários disponíveis em uma agenda online. As
+  responsabilidades incluíam agendamento de reuniões, gerenciamento de 100% das tarefas da equipe, otimização
+  do tempo de entrega dos projetos e aprimoramento das habilidades de liderança, gestão e comunicação.  
+  🔗 [Acesso](https://agendae-six.vercel.app/)  
+  💻 [Código Fonte](https://github.com/evertonccarvalho/sistema-agendamentos)
 
 ---
 
-### 💳 Microserviço de Pagamentos Asaas  
-**Tecnologias:** NestJS, Typescript, Axios, Express, Swagger, NodeJS, TypeORM, PostgreSQL, Jest, Docker  
-Microsserviço responsável pela comunicação com a API do Asaas para geração de cobranças, links de pagamento e gestão de clientes.  
-🔗 [Acesso](https://asaas-payment-microservice.vercel.app/)  
-💻 [Código Fonte](https://github.com/JsCodeDevlopment/asaas-payment-microservice)
+### 💳 Microserviço de Pagamentos Asaas
+
+**Tecnologias:** NestJS, Typescript, Axios, Express, Swagger, NodeJS, TypeORM, PostgreSQL, Jest, Docker
+
+- Microsserviço desenvolvido em NestJS que encapsula toda a integração com a API do Asaas. O
+  objetivo é fornecer, de forma centralizada e reutilizável por várias aplicações, funcionalidades de: Criação de
+  clientes Geração de cobranças (boleto, cartão de crédito, PIX) Criação e consulta de links de pagamento.  
+  🔗 [Acesso](https://asaas-payment-microservice.vercel.app/)  
+  💻 [Código Fonte](https://github.com/JsCodeDevlopment/asaas-payment-microservice)
 
 ---
 
@@ -124,14 +156,19 @@ Microsserviço responsável pela comunicação com a API do Asaas para geração
 
 ## 🌎 Idiomas
 
-- **Português:** Nativo  
-- **Inglês:** Intermediário (B1) — Escrita e leitura  
+- **Português:** Nativo
+- **Inglês:** Intermediário (B1) — Escrita e leitura
 - **Espanhol:** Intermediário (B1) — Escrita, leitura e conversação
 
 ---
 
 ## 🏆 Conquistas e Premiações
 
-- 🥇 **Vencedor do 5° Hackathon da OneBitCode**  
-  Sistema de agendamento completo com liderança e entrega em 2 semanas, atendendo 98% dos requisitos.
-  🔗 [Projeto](https://agendae-six.vercel.app/) | 💻 [GitHub](https://github.com/evertonccarvalho/sistema-agendamentos)
+- 🥇 **Vencedor do 5° Hackathon da OneBitCode**
+  - Desenvolvimento de um sistema completo de agendamento fullstack em duas semanas, demonstrando
+    capacidade de liderança, trabalho em equipe e capacidade de trabalhar sob pressão, atendendo cerca de 98%
+    dos requisitos.
+
+🔗 [Projeto](https://agendae-six.vercel.app/) | 💻 [GitHub](https://github.com/evertonccarvalho/sistema-agendamentos)
+
+---
