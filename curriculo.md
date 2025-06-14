@@ -52,10 +52,9 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 **Fev 2025 – Abr 2025**
 
-- Responsável pela manutenção e otimização de um sistema que atende mais de 5 empresas,
-  realizando grandes refatorações e migração tecnológica no frontend, substituindo MUI por Ant Design com
-  Tailwind para melhorar performance e usabilidade.  
-   **Stack:** React, Typescript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
+- Atualmente, atuo como peça fundamental na manutenção e evolução de um sistema utilizado por diversos usuários, garantindo estabilidade, performance e melhorias contínuas. Minha rotina envolve grandes refatorações de código, buscando otimização, legibilidade e melhores práticas, além de contribuir ativamente para a migração de tecnologias no frontend.
+- Estou liderando a transição do Material UI (MUI) para Ant Design com Tailwind CSS, modernizando a interface e melhorando a experiência do usuário. Também trabalho na identificação e solução de gargalos de desempenho, garantindo que o sistema esteja sempre eficiente e escalável.
+**Stack:** React, Typescript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
 
 ---
 
@@ -81,7 +80,7 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 - Desenvolvimento e manutenção de sites e sistemas, colaborando com equipes multifuncionais para
   entregar soluções robustas, concluindo projetos 100% para os clientes. Demonstrar capacidade de trabalhar sob
   pressão, resolução de problemas e pensamento crítico.
-   **Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
+  **Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
