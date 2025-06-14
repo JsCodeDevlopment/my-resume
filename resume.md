@@ -52,10 +52,9 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 
 **Feb 2025 – Apr 2025**
 
-- Responsible for the maintenance and optimization of a system that serves more than 5 companies,
-  performing major refactorings and technological migration in the frontend, replacing MUI with Ant Design with
-  Tailwind to improve performance and usability.  
-   **Stack:** React, TypeScript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
+- Currently play a key role in the maintenance and development of a system used by many users, ensuring stability, performance and continuous improvements. My routine involves major code refactorings, seeking optimization, readability and best practices, in addition to actively contributing to the migration of frontend technologies.
+- Leading the transition from Material UI (MUI) to Ant Design with Tailwind CSS, modernizing the interface and improving the user experience. I also work on identifying and solving performance bottlenecks, ensuring that the system is always efficient and scalable.
+  **Stack:** React, TypeScript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
 
 ---
 
