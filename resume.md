@@ -38,7 +38,7 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Work Experience
 
-### Desenvolvedor Fullstack Pleno III — **PokerSlayer**
+### Software Engineer (Mid Level III) — **PokerSlayer**
 
 **Abr 2025 – Atualmente**
 
