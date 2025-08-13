@@ -38,13 +38,24 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Work Experience
 
+### Desenvolvedor Fullstack Pleno III — **PokerSlayer**
+
+**Abr 2025 – Atualmente**
+
+- Promoted to Full III, my daily responsibilities include leading and mentoring a team of less senior developers, assisting, assigning tasks, and conducting code reviews. I'm also continuing to develop a poker learning platform using the Javascript and Typescript ecosystem, aiming to build with agility and robustness to meet the growing number of users.
+
+**Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Zustand, Leadership, Prisma.
+
+---
+
 ### Software Engineer (Mid Level) — **PokerSlayer**
 
-**Apr 2025 – Present**
+**Apr 2025 – Ago 2025**
 
 - I am part of a professional poker platform using the JavaScript ecosystem with a focus on TypeScript and Node.js. My role involved implementing robust integrations, performance optimizations, and continuous improvements to the responsiveness and usability of the user interface.
 - worked directly on the development and maintenance of high-availability applications, ensuring excellence in user experience and system scalability, contributing significantly to the success and evolution of the platform.
-  **Stack:** React, TypeScript, MUI, Node, Tailwind, SQL, Nest, Redux.
+
+**Stack:** React, TypeScript, MUI, Node, Tailwind, SQL, Nest, Redux.
 
 ---
 
@@ -54,17 +65,19 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 
 - Currently play a key role in the maintenance and development of a system used by many users, ensuring stability, performance and continuous improvements. My routine involves major code refactorings, seeking optimization, readability and best practices, in addition to actively contributing to the migration of frontend technologies.
 - Leading the transition from Material UI (MUI) to Ant Design with Tailwind CSS, modernizing the interface and improving the user experience. I also work on identifying and solving performance bottlenecks, ensuring that the system is always efficient and scalable.
-  **Stack:** React, TypeScript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
+
+**Stack:** React, TypeScript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
 
 ---
 
 ### Software Engineer (Mid Level) — **Infinity Tec**
 
-**Sep 2024 – Present**
+**Sep 2024 – Ago 2025**
 
 - With the promotion to full developer, I gained more autonomy in technical decisions and began to temporarily lead development teams, organizing tasks, reviewing codes and ensuring the quality of deliveries. In addition, I worked directly in supporting and guiding junior developers, helping with technical challenges and promoting good development practices.
 - I actively participated from the conception to the delivery of solutions, with experience in both individual and collaborative projects, always seeking to contribute to the success of products and the evolution of internal processes.
-  **Stack:** React, TypeScript, Next.js, NestJS, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
+
+**Stack:** React, TypeScript, Next.js, NestJS, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
@@ -73,7 +86,8 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 **Apr 2024 – Sep 2024**
 
 - Development and maintenance of websites and systems, collaborating with multifunctional teams to deliver robust solutions, completing projects 100% for clients. Demonstrate the ability to work under pressure, problem-solving and critical thinking.
-  **Stack:** React, TypeScript, Next.js, NestJS, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
+
+**Stack:** React, TypeScript, Next.js, NestJS, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
@@ -91,7 +105,8 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 **May 2012 – Sep 2023**
 
 - Development of flyers, banners, business cards, digital media and artwork in general on a freelance basis.
-  **Tools:** Adobe Photoshop, Figma.
+
+**Tools:** Adobe Photoshop, Figma.
 
 ---
 
