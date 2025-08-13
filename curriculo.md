@@ -38,13 +38,24 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Fullstack Pleno — **PokerSlayer**
+### Desenvolvedor Fullstack Pleno III — **PokerSlayer**
 
 **Abr 2025 – Atualmente**
 
+- Promovido a Pleno III agora minha responsabilidade, também liderar e orientar equipe de desenvolvedores com menor senioridade, auxiliar, designar tarefas e fazer code review são atribuições no meu dia a dia. Além disso persisto no desenvolvimento de uma plataforma de estudos de poker usando o ecossistema do Javascript com Typescript com a proposta de construir com agilidade e robustez para atender a quantidade de usuários.
+
+**Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Zustand, Liderança, Prisma.
+
+---
+
+### Desenvolvedor Fullstack Pleno — **PokerSlayer**
+
+**Abr 2025 – Ago 2025**
+
 - Integro uma plataforma profissional de poker utilizando o ecossistema JavaScript com foco em TypeScript e Node.js. Meu papel envolveu a implementação de integrações robustas, otimizações de performance e melhorias contínuas na responsividade e usabilidade da interface do usuário.
-- Trabalhei diretamente no desenvolvimento e na manutenção de aplicações de alta disponibilidade, garantindo a excelência na experiência do usuário e a escalabilidade do sistema, contribuindo de forma significativa para o sucesso e a evolução da plataforma.  
-  **Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Redux.
+- Trabalhei diretamente no desenvolvimento e na manutenção de aplicações de alta disponibilidade, garantindo a excelência na experiência do usuário e a escalabilidade do sistema, contribuindo de forma significativa para o sucesso e a evolução da plataforma.
+
+**Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Redux.
 
 ---
 
@@ -54,13 +65,14 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 - Atualmente, atuo como peça fundamental na manutenção e evolução de um sistema utilizado por diversos usuários, garantindo estabilidade, performance e melhorias contínuas. Minha rotina envolve grandes refatorações de código, buscando otimização, legibilidade e melhores práticas, além de contribuir ativamente para a migração de tecnologias no frontend.
 - Estou liderando a transição do Material UI (MUI) para Ant Design com Tailwind CSS, modernizando a interface e melhorando a experiência do usuário. Também trabalho na identificação e solução de gargalos de desempenho, garantindo que o sistema esteja sempre eficiente e escalável.
+
 **Stack:** React, Typescript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
 
 ---
 
 ### Desenvolvedor Fullstack Pleno — **Infinity Tec**
 
-**Set 2024 – Atualmente**
+**Set 2024 – Ago 2025**
 
 - Com a promoção a desenvolvedor pleno, conquistei mais autonomia nas decisões técnicas e passei
   a liderar momentaneamente equipes de desenvolvimento, organizando tarefas, revisando códigos e garantindo a
@@ -68,8 +80,9 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
   auxiliando em desafios técnicos e promovendo boas práticas de desenvolvimento.
 - Participei ativamente desde a concepção até a entrega de soluções, com experiência tanto em projetos
   individuais quanto colaborativos, sempre buscando contribuir com o sucesso dos produtos e a evolução dos
-  processos internos.  
-   **Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
+  processos internos.
+
+**Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
@@ -80,7 +93,8 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 - Desenvolvimento e manutenção de sites e sistemas, colaborando com equipes multifuncionais para
   entregar soluções robustas, concluindo projetos 100% para os clientes. Demonstrar capacidade de trabalhar sob
   pressão, resolução de problemas e pensamento crítico.
-  **Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
+
+**Stack:** React, Typescript, Next, Nest, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
@@ -90,8 +104,9 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 - Desenvolvimento de sites e landing pages como freelancer, completando 100% dos projetos desde
   a concepção até a implantação. Demonstrou habilidades de gerenciamento de tempo, atenção aos detalhes,
-  comunicação e adaptabilidade.  
-   **Stack:** HTML, CSS, Javascript, Typescript, React, Tailwind.
+  comunicação e adaptabilidade.
+
+**Stack:** HTML, CSS, Javascript, Typescript, React, Tailwind.
 
 ---
 
@@ -100,8 +115,9 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 **Mai 2012 – Set 2023**
 
 - Desenvolvimento de flyer, banner, cartões de visita, mídias digitais e artes de
-  modo geral em modalidade freelance.  
-   **Ferramentas:** Adobe Photoshop, Figma.
+  modo geral em modalidade freelance.
+
+**Ferramentas:** Adobe Photoshop, Figma.
 
 ---
 
