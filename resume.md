@@ -38,7 +38,7 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Work Experience
 
-### Software Engineer (Mid Level III) — **PokerSlayer**
+### Software Engineer (Mid Level III) — **PokerNetic**
 
 **Abr 2025 – Atualmente**
 
@@ -48,7 +48,7 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 
 ---
 
-### Software Engineer (Mid Level) — **PokerSlayer**
+### Software Engineer (Mid Level) — **PokerNetic**
 
 **Apr 2025 – Ago 2025**
 
