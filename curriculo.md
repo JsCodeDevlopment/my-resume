@@ -38,7 +38,7 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Fullstack Pleno III — **PokerSlayer**
+### Desenvolvedor Fullstack Pleno III — **PokerNetic**
 
 **Abr 2025 – Atualmente**
 
@@ -48,7 +48,7 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 ---
 
-### Desenvolvedor Fullstack Pleno — **PokerSlayer**
+### Desenvolvedor Fullstack Pleno — **PokerNetic**
 
 **Abr 2025 – Ago 2025**
 
