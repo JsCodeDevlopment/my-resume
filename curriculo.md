@@ -38,11 +38,11 @@ Git, Github, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Experiência Profissional
 
-### Desenvolvedor Fullstack Pleno III — **PokerNetic**
+### Desenvolvedor Fullstack Sênior — **PokerNetic**
 
 **Abr 2025 – Atualmente**
 
-- Promovido a Pleno III agora minha responsabilidade, também liderar e orientar equipe de desenvolvedores com menor senioridade, auxiliar, designar tarefas e fazer code review são atribuições no meu dia a dia. Além disso persisto no desenvolvimento de uma plataforma de estudos de poker usando o ecossistema do Javascript com Typescript com a proposta de construir com agilidade e robustez para atender a quantidade de usuários.
+- Promovido a Sênior agora minha responsabilidade, também liderar e orientar equipe de desenvolvedores com menor senioridade, auxiliar, designar tarefas e fazer code review são atribuições no meu dia a dia. Além disso persisto no desenvolvimento de uma plataforma de estudos de poker usando o ecossistema do Javascript com Typescript com a proposta de construir com agilidade e robustez para atender a quantidade de usuários.
 
 **Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Zustand, Liderança, Prisma.
 
