@@ -38,11 +38,11 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 
 ## 💼 Work Experience
 
-### Software Engineer (Mid Level III) — **PokerNetic**
+### Software Engineer Senior — **PokerNetic**
 
 **Abr 2025 – Atualmente**
 
-- Promoted to Full III, my daily responsibilities include leading and mentoring a team of less senior developers, assisting, assigning tasks, and conducting code reviews. I'm also continuing to develop a poker learning platform using the Javascript and Typescript ecosystem, aiming to build with agility and robustness to meet the growing number of users.
+- Promoted to Senior, my daily responsibilities include leading and mentoring a team of less senior developers, assisting, assigning tasks, and conducting code reviews. I'm also continuing to develop a poker learning platform using the Javascript and Typescript ecosystem, aiming to build with agility and robustness to meet the growing number of users.
 
 **Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Zustand, Leadership, Prisma.
 
