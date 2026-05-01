@@ -4,20 +4,22 @@
 ✉️ **Email:** jonatasilva118@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jscodedevelopment)  
 🔗 [GitHub](https://github.com/JsCodeDevlopment)  
-📍 **Age:** 26 — Crato, CE, Brazil
+📍 **Location:** Schroeder-SC
 
 ---
 
 ## 🎯 Summary
 
-I am looking for an opportunity in an innovative company where I can apply my skills in development and problem-solving. I am currently pursuing a degree in Systems Analysis and Development at Faculdade Descomplica, focused on challenging projects and delivering efficient tech solutions. I'm a motivated, adaptable, and collaborative individual, always aiming to improve my skills and contribute to the team's success.
+Full Stack Software Engineer with experience leading teams and building scalable systems with 14+ microservices in production, working on creating robust, scalable, and business value-driven applications. Expertise in modern technologies within the JavaScript ecosystem, as well as practical experience in systems architecture and service integration.
+
+Throughout my career, I have also led and managed teams, being responsible for coordinating people, optimizing processes, and ensuring consistent deliverables. I combine technical vision with strategic thinking, contributing not only with code but also with decisions that directly impact the product and results.
 
 ---
 
 ## 🛠 Skills
 
 **Soft Skills:**  
-Communication, Proactivity, Leadership, People Management, Analytical Thinking, Teamwork, Adaptability, Motivation, Ownership.
+Communication, Proactivity, Leadership, People Management, Analytical Ability, Teamwork, Adaptability, Motivation, Ownership.
 
 **Languages:**  
 JavaScript, TypeScript
@@ -32,103 +34,105 @@ Node.js, Express, NestJS, Prisma, TypeORM
 MongoDB, PostgreSQL, Redis
 
 **Other Tools:**  
-Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
+Git, GitHub, Docker, Swagger, Axios, Stripe
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-### Software Engineer (Mid Level III) — **PokerSlayer**
+### Software Engineer Senior — **PokerNetic**
 
-**Abr 2025 – Atualmente**
+**Aug 2025 – Present**
 
-- Promoted to Full III, my daily responsibilities include leading and mentoring a team of less senior developers, assisting, assigning tasks, and conducting code reviews. I'm also continuing to develop a poker learning platform using the Javascript and Typescript ecosystem, aiming to build with agility and robustness to meet the growing number of users.
+- Promoted to Senior Software Engineer, assuming responsibilities that include leading more than 5 devs and mentoring a team of junior and mid-level developers, delegating tasks, and conducting code reviews.
+- Responsible for a production platform comprised of 4 web applications and over 14 microservices.
+- Led technology migrations, implemented performance optimizations, and improved the platform architecture, increasing user interaction speed by approximately 25%.
+- Refactored the internationalization system (i18n), expanding support from 4 to 11 languages, enabling global scalability.
+- Implemented security improvements, including data sanitization, and drove SEO improvements, resulting in an approximately 30% increase in performance and visibility.
 
-**Stack:** React, Typescript, MUI, Node, Tailwind, SQL, Nest, Zustand, Leadership, Prisma.
+**Stack:** React, TypeScript, MUI, Node, Tailwind, SQL, Nest, Redux, Zustand, Prisma, Leadership.
 
 ---
 
-### Software Engineer (Mid Level) — **PokerSlayer**
+### Software Engineer Mid Level — **PokerNetic**
 
-**Apr 2025 – Ago 2025**
+**Apr 2025 – Aug 2025**
 
-- I am part of a professional poker platform using the JavaScript ecosystem with a focus on TypeScript and Node.js. My role involved implementing robust integrations, performance optimizations, and continuous improvements to the responsiveness and usability of the user interface.
-- worked directly on the development and maintenance of high-availability applications, ensuring excellence in user experience and system scalability, contributing significantly to the success and evolution of the platform.
+- Worked on a professional poker platform using the JavaScript ecosystem, with a focus on TypeScript and Node.js.
+- Implemented robust integrations, performance optimizations, and continuous improvements in UI responsiveness and usability.
+- Contributed to the development and maintenance of highly available and scalable applications, ensuring a high-quality user experience.
 
 **Stack:** React, TypeScript, MUI, Node, Tailwind, SQL, Nest, Redux.
 
 ---
 
-### Software Engineer (Mid Level) — **TakeFlow**
+### Fullstack Developer Mid Level — **TakeFlow**
 
 **Feb 2025 – Apr 2025**
 
-- Currently play a key role in the maintenance and development of a system used by many users, ensuring stability, performance and continuous improvements. My routine involves major code refactorings, seeking optimization, readability and best practices, in addition to actively contributing to the migration of frontend technologies.
-- Leading the transition from Material UI (MUI) to Ant Design with Tailwind CSS, modernizing the interface and improving the user experience. I also work on identifying and solving performance bottlenecks, ensuring that the system is always efficient and scalable.
+- Maintained and optimized a system that served more than 5 companies.
+- Led a major frontend redesign and technology migration, replacing MUI with Ant Design combined with Tailwind CSS. This included code refactoring of components with over 3,000 lines of code, reducing them to a maximum of 300 lines.
+- Improved the system's performance and usability, enhancing the overall user experience and interface consistency.
 
 **Stack:** React, TypeScript, MUI, Ant Design, Node, Tailwind, SQL, Websockets, RabbitMQ.
 
 ---
 
-### Software Engineer (Mid Level) — **Infinity Tec**
+### Fullstack Developer Mid Level — **Infinity Tec**
 
-**Sep 2024 – Ago 2025**
+**Sep 2024 – Aug 2025**
 
-- With the promotion to full developer, I gained more autonomy in technical decisions and began to temporarily lead development teams, organizing tasks, reviewing codes and ensuring the quality of deliveries. In addition, I worked directly in supporting and guiding junior developers, helping with technical challenges and promoting good development practices.
-- I actively participated from the conception to the delivery of solutions, with experience in both individual and collaborative projects, always seeking to contribute to the success of products and the evolution of internal processes.
+- Promoted to a role with increased autonomy in technical decision-making and temporary leadership responsibilities.
+- Led development teams by organizing tasks, conducting code reviews, and ensuring high-quality deliverables.
+- Mentored junior developers, supporting technical growth and promoting best practices.
+- Contributed to the development of a payment gateway (Intra Pay), currently used by over 5,000 clients.
+- Led frontend development with more than 3 devs and coordinated team efforts throughout the project lifecycle.
 
 **Stack:** React, TypeScript, Next.js, NestJS, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
-### Software Engineer — **Infinity Tec**
+### Fullstack Developer — **Infinity Tec**
 
 **Apr 2024 – Sep 2024**
 
-- Development and maintenance of websites and systems, collaborating with multifunctional teams to deliver robust solutions, completing projects 100% for clients. Demonstrate the ability to work under pressure, problem-solving and critical thinking.
+- Worked on multiple projects across different industries, contributing to over 70% of the company's active projects.
+- Participated in the full development lifecycle, from solution design to delivery.
+- Acted both independently and in team leadership roles, managing task distribution, reviewing deliverables, and ensuring quality and deadlines.
+- Helped improve internal development processes and promoted best practices, contributing directly to the success of delivered products.
 
 **Stack:** React, TypeScript, Next.js, NestJS, Node, Tailwind, Prisma, PostgreSQL, Docker, Redis, Swagger, Zustand.
 
 ---
 
-### Web Developer — **VintePila (Freelancer)**
+### Web Developer — **Vintepila**
 
-**Feb 2023 – Sep 2023**
+**Feb 2023 – Apr 2024**
 
-- Developed websites and landing pages as a freelancer, completing 100% of projects from conception to implementation. Demonstrated time management skills, attention to detail, communication and adaptability.
-  **Stack:** HTML, CSS, JavaScript, TypeScript, React, Tailwind.
+- Freelance development of websites, landing pages, and small web systems for businesses, barbershops, and similar establishments, completing 100% of projects from conception to implementation.
+- Working independently, handling everything from client meetings and requirements gathering to product schematics and logic, and creating diagrams to design the application based on client needs, utilizing skills in time management, attention to detail, communication, and adaptability.
 
----
-
-### Graphic Designer — **Freelancer**
-
-**May 2012 – Sep 2023**
-
-- Development of flyers, banners, business cards, digital media and artwork in general on a freelance basis.
-
-**Tools:** Adobe Photoshop, Figma.
+**Stack:** HTML, CSS, JavaScript, TypeScript, React, Tailwind.
 
 ---
 
 ## 💻 Projects
 
-### 🗓 Booking System
-
-**Tech:** React, Next.js, TypeScript, Tailwind, ShadcnUI, Prisma, Axios, Stripe
-
-- Collaborative project that led to victory in the 5th OneBitCode Hackathon. The system allows professionals to register services and make available times available in an online calendar. Responsibilities included scheduling meetings, managing 100% of team tasks, optimizing project delivery times, and improving leadership, management, and communication skills.  
-  🔗 [Live Demo](https://agendae-six.vercel.app/)  
-  💻 [Source Code](https://github.com/evertonccarvalho/sistema-agendamentos)
-
----
-
 ### 💳 Asaas Payment Microservice
 
 **Tech:** NestJS, TypeScript, Axios, Express, Swagger, NodeJS, TypeORM, PostgreSQL, Jest, Docker
 
-- Microservice developed in NestJS that encapsulates all integration with the Asaas API. The objective is to provide, in a centralized and reusable way for several applications, functionalities for: Creating customers Generating charges (bill, credit card, PIX) Creating and consulting payment links.  
-  🔗 [Live Access](https://asaas-payment-microservice.vercel.app/)  
-  💻 [Source Code](https://github.com/JsCodeDevlopment/asaas-payment-microservice)
+- This microservice, developed in NestJS, encapsulates all integration with the Asaas API. Its objective is to provide, in a centralized and reusable way across multiple applications, the following functionalities: Customer creation; Invoice generation (bank slip, credit card, PIX); Creation and querying of payment links. The application is currently being used in production by two real projects (Aviva and RHtrip) from a single company called Unew Sistemas.  
+  🔗 [Access](https://asaas-payment-microservice.vercel.app) | 💻 [Source Code](https://github.com/JsCodeDevlopment/asaas-payment-microservice)
+
+---
+
+### 🗓 Syncable
+
+**Tech:** Server Actions, TypeScript, Axios, Bcrypt, PostgreSQL, React, Next, Tailwind, ShadcnUI
+
+- Syncable is a modern and intuitive platform for managing electronic time and attendance. With advanced features for time tracking and report generation, the application offers a complete solution for companies and professionals who need to efficiently manage their work hours. The tool currently has over 20 users.  
+  🔗 [Access](https://syncable.vercel.app) | 💻 [Source Code](https://github.com/JsCodeDevlopment/syncable)
 
 ---
 
@@ -143,21 +147,21 @@ Git, GitHub, Docker, Swagger, Axios, Stripe, Figma
 ## 📜 Certifications
 
 - **Fullstack JavaScript Developer** — OneBitCode  
-  HTML, CSS, JS, TS, Git, React, Next.js, Node, MongoDB.
+  HTML, CSS, JavaScript, TypeScript, Git, GitHub, React, Next.js, Node.js, MongoDB.
 
 - **JavaScript Algorithms and Data Structures** — freeCodeCamp  
-  Algorithms, Data Structures.
+  JavaScript, Algorithms, Data Structures.
 
-- **JavaScript & TypeScript from Basic to Advanced** — Udemy (Luiz Otávio Miranda)  
-  JS, TS, Jest, OOP, SQL, MySQL, EJS, Regex.
+- **JavaScript and TypeScript From Basics to Advanced** — Udemy (Luiz Otávio Miranda)  
+  JavaScript, TypeScript, Jest, OOP, SQL, MySQL, EJS, Regex.
 
 ---
 
 ## 🌎 Languages
 
 - **Portuguese:** Native
-- **English:** Intermediate (B1) — Reading and writing
-- **Spanish:** Intermediate (B1) — Reading, writing, speaking
+- **English:** Intermediate (B1) — Reading, Writing, and Speaking
+- **Spanish:** Intermediate (B1) — Reading, Writing, and Speaking
 
 ---
 
