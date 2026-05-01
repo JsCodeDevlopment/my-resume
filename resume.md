@@ -42,8 +42,6 @@ Git, GitHub, Docker, Swagger, Axios, Stripe
 
 ### Software Engineer Senior — **PokerNetic**
 
-### Software Engineer Senior — **PokerNetic**
-
 **Aug 2025 – Present**
 
 - Promoted to Senior Software Engineer, assuming responsibilities that include leading more than 5 devs and mentoring a team of junior and mid-level developers, delegating tasks, and conducting code reviews.
