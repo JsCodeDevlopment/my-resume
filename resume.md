@@ -38,7 +38,7 @@ Git, GitHub, Docker, Swagger, Axios, Stripe
 
 ---
 
-## 💼 Professional Experience
+## 💼 Work Experience
 
 ### Software Engineer Senior — **PokerNetic**
 

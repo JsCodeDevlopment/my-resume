@@ -140,7 +140,7 @@ Git, GitHub, Docker, Swagger, Axios, Stripe
 
 **Curso:** Análise e Desenvolvimento de Sistemas  
 **Instituição:** Faculdade Descomplica  
-**Início:** Fev 2022
+**Ingresso:** Fev 2022
 
 ---
 
